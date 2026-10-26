@@ -1,0 +1,6 @@
+salt.bin
+senhas.enc
+__pycache__/
+*.spec
+dist/
+build/
